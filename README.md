@@ -1,5 +1,7 @@
 <div align="center">
-![ModestoPeq](https://github.com/user-attachments/assets/1955b20d-8d8d-4599-aed4-fa7ccf00e8aa)
+  
+![ModestoPeq](https://github.com/user-attachments/assets/2d898bee-1b20-437d-8ce1-ec0c801bce25)
+
 </div>
 
 <h1>Prazer, Meu nome é joão Pedro de Almeida Modesto;</h1><br>
