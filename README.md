@@ -1,6 +1,6 @@
 <div align="center">
   
-![ModestoPeq](https://github.com/user-attachments/assets/2d898bee-1b20-437d-8ce1-ec0c801bce25)
+![ModestoSmaller](https://github.com/user-attachments/assets/9674ae47-af5e-4649-b636-a39919005700)
 
 </div>
 
